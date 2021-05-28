@@ -1,0 +1,3 @@
+- [ ] Make the notes persistent by implementing a cloud database.
+- [ ] Implement a user model.
+- [ ] Implement authentication.
